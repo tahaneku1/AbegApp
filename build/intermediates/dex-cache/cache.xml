@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\df5d317e2b119abd9a67d40ab10f10fd9b01f95d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_3c95eb28bb18dcc0d32c44ac4489d382e4ba0fdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\004fd9f7747af84ce4caae846ca2eb6be73d9a50\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\internal_impl-25.0.1_a72f63c6204d813883b961787b82437c31204444.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\d4f62366ca02450ce3d641189ef044ad88c8ff4a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b81327f3afb5c0c84ee6f50df6f750737a44653">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_3158e823221904a14ebd0d88695f92f8e0e2d4bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.8.0\a517f29ed06be2b2879524fcd94b6e9b36e2e0b5\retrofit-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\retrofit-1.8.0_072d6d39556261092ff1bc1331676a515bef323c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\6a037b19c84c919cb9d110f94e29fbaa2d6493b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_3482603de1a03696f500d49a1202c5024e74647a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\004fd9f7747af84ce4caae846ca2eb6be73d9a50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_757f3e57032721d80814ac592cc6f2c7821b9601.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\7d150c2ea51e072c4fffbb780a065f9240b319c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ea42614d0d3d5e9f507cb2f432ae821307cd0dc">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_911a4fb7a1d58b9ac514d3198ba116d10ce63d57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\b5909ad7d2b05880246d1583f8fa5d659f161377\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\internal_impl-25.0.1_8e5f9ae80a3561b3f34a997ecc3c85a04a9f8801.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\gson-2.3_852811810f23005b6615f02e74b5ad45c75feaa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\c45dbee8f99d06ca9b2ee7a1dc25bb627256bb32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1360908bc3e1751f5e2248e64aedbe4b5944b702">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_2061e12ff6f83fe4c6419e824f40e0eeece47401.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\incremental-runtime-classes\minSdkIcs\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\transforms\dex\minSdkIcs\debug\folders\1000\10000\instant-run_5bb52de3c92c48d1ce7f5254446638538df01d2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\69c0a9cc3fbfd8df01f3cb90aea8d64bf2953f7e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_8974f6379e07a27c2675bbde93b96db570bb982e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\204855cbcd2386c421564c52e856dbd44bb43c84\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_017358cbc773ff76cf93423181aa480cff47ce99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\960f4406c354a30611ff29576843e2f99a657453\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_b672c0127c9f6ef342800f3dc84cc1ba97a9cc71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\f40c74ec41e6021891bfcba1a30f5ac36ac09eeb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_be91c834c9d3ef7ce7310541a0ae845193061b3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\14481a8ce7db0370254fa39ff0e05a64929f580f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_7c96783294cfa8ab2522f6e7031ce8f74deae291.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\ac0ed8fbd27daa4e0ab515ce40b71c1e73a61acf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_0e23aa113e84fa4400912a507dca649d2abe15e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\support-annotations-25.0.1_0b88f9053b7ea9c84492dee9f535ed0269f4841b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\bdbab671a37e5da783b92729295089db9f0dbc4f\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\internal_impl-25.0.1_99cb6bc9b80086f7b256bb491479119c07a6d11c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\95993c276bb95bbe40790a680557fdd631509ba5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_1f683b89f38f53cc2c9b4a4e561f2babb0591fc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\picasso-2.5.2_35a95401f9fa383e930c1387e7c9021abdd2e350.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.13.0\78415b95ae3184c5926d593feab64bfc0b73b2dd\twitter-text-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\twitter-text-1.13.0_3bbf91eec2c93ea55a49ec2e39dc0cd569656b98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\5b88d05ac3367c065703878895ae683a7dac27a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_def9e318f39246b514624887c93d2030fb97f03b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\71cdb3a72d04f2de8f0e5f91f1d1f9aab20c746a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_65605b8948d94df3d7bed213067d530465b2e269.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\b622dca2f11bd973273d92f68a44efb3b53c668d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_a6fa33223d827b3ad28fe7da2d55561df35979e9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\incremental-classes\minSdkIcs\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6f4b056ebfc2752112f46db58f5532f888bcc30">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\transforms\dex\minSdkIcs\debug\folders\1000\10000\instant-run-bootstrap_63f5c8a9506592811cd58904fef274ca1c365ed8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\e43e95db02243b7e864b0ffb36155a20dbd2248e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_5c81f31804bbcebb484cace2ae63b19ebf7d7b92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\6a037b19c84c919cb9d110f94e29fbaa2d6493b6\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\internal_impl-25.0.1_a07265e2122c49463d88b83e60a7f24105762294.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\9244b45c30e8a7aad97fb397c2a26fc5a45c422d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_c251401591d70a37e39e8e7889512635a757ad17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\14243ed95b4607e86413728fa27dd65811c6f14f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_f9557e3f5c114f05c28128dab3036a11c70268a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\204855cbcd2386c421564c52e856dbd44bb43c84\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\internal_impl-25.0.1_e7728241cc774c0ad8be01da8000c0a155abc7f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\8e7ed8997f983eb0f39021d38ec556b467fe88c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_3be616f61cde2ce4b16142198ff8dbb4e6c48bbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\e14af6c6936ad214e27faeec76435a588bbd9699\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d903060c54d0109fc4efa404a62fac2158d6633">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_7611be6e679ace82f192e8468973040baf4b8186.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\410d8e0f7cfb58dc7994f017767d4990c6eacf81\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_6595857d7d105745c4baa135c54499f1adcf17f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\bdbab671a37e5da783b92729295089db9f0dbc4f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_4694bd21db80070e5f2750ccba6e15f26a19fdbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\93f48f366a15d7c3419197a041c120fb0bb36c0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e25d39642cf82ff86e13390e7854ef135df232ea">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_45819c140978b7539e2bb894054f2c865c241ddc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Timothy\.android\build-cache\b5909ad7d2b05880246d1583f8fa5d659f161377\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Timothy\Documents\AndroidProjects\AbegApp\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_8480a21d9065cf6a6928741b1c45fd79aa9b821d.jar" />
+    </item>
+
+</items>

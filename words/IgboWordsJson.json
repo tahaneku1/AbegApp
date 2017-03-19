@@ -1,0 +1,817 @@
+{"FOREIGNWORDBANK" :{
+	"LANGUAGE":"IGBO",
+	"WORDS" : 
+	[
+  {
+    "ID": 1,
+    "DIALECT": "southern",
+    "POS": "adj",
+    "FOREIGNWORD": "ezi",
+    "MEANING": "good",
+    "FOREIGNSENTENCE": "Ezi aha ka ego.",
+    "ENGLISHSENTENCE": "A good reputation is priceless."
+  },
+  {
+    "ID": 2,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "agbogho",
+    "MEANING": "young woman",
+    "FOREIGNSENTENCE": "O ka bu nwa agbogho.",
+    "ENGLISHSENTENCE": "She is still a young woman."
+  },
+  {
+    "ID": 3,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "ije",
+    "MEANING": "gait",
+    "FOREIGNSENTENCE": "Gi hu ije ya, gi amara na ihe mere ya na ukwu.",
+    "ENGLISHSENTENCE": "Her awkward gait gives away her leg injury."
+  },
+  {
+    "ID": 4,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "ikike",
+    "MEANING": "authority",
+    "FOREIGNSENTENCE": "Ikike ndi ochichi si na aka oha.",
+    "ENGLISHSENTENCE": "A government's authority is derived from the public."
+  },
+  {
+    "ID": 5,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "ogwu",
+    "MEANING": "medicine",
+    "FOREIGNSENTENCE": "Ha ga-ebutara gi ogwu gi.",
+    "ENGLISHSENTENCE": "They will deliver your medicine."
+  },
+  {
+    "ID": 6,
+    "DIALECT": "southern",
+    "POS": "n",
+    "FOREIGNWORD": "ugbo ala",
+    "MEANING": "automobile",
+    "FOREIGNSENTENCE": "Mgbe a muru m, ugbo ala ka di mkpuru ole na ole.",
+    "ENGLISHSENTENCE": "Back in my day, automobiles were few in number."
+  },
+  {
+    "ID": 7,
+    "DIALECT": "general",
+    "POS": "adj",
+    "FOREIGNWORD": "otutu",
+    "MEANING": "numerous",
+    "FOREIGNSENTENCE": "Otutu ihe emeela.",
+    "ENGLISHSENTENCE": "Numerous things have happened."
+  },
+  {
+    "ID": 8,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "ututu",
+    "MEANING": "morning",
+    "FOREIGNSENTENCE": "Aga m abia na ututu.",
+    "ENGLISHSENTENCE": "I shall come in the morning."
+  },
+  {
+    "ID": 9,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "ohia",
+    "MEANING": "forest",
+    "FOREIGNSENTENCE": "Ka anyi jee pio ohia.",
+    "ENGLISHSENTENCE": "Let's explore the forest."
+  },
+  {
+    "ID": 10,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "okorobia",
+    "MEANING": "a young man",
+    "FOREIGNSENTENCE": "Uchenna bu nwa okorobia gbasiri ike.",
+    "ENGLISHSENTENCE": "Uchenna is a virile young man."
+  },
+  {
+    "ID": 11,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "agbatobi",
+    "MEANING": "neighbor",
+    "FOREIGNSENTENCE": "Agbatobi onye bu nwanne ya.",
+    "ENGLISHSENTENCE": "A neighbor is essentially a close relation."
+  },
+  {
+    "ID": 12,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "nlechasiri anya",
+    "MEANING": "sight seeing",
+    "FOREIGNSENTENCE": "Anyi gara nlechasiri anya.",
+    "ENGLISHSENTENCE": "We went sight seeing."
+  },
+  {
+    "ID": 13,
+    "DIALECT": "southern",
+    "POS": "n",
+    "FOREIGNWORD": "ahu ike",
+    "MEANING": "wellness",
+    "FOREIGNSENTENCE": "Oji a ga-enye anyi ahu ike na ndu.",
+    "ENGLISHSENTENCE": "This kola nut will nourish us with wellness and life."
+  },
+  {
+    "ID": 14,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "isi ike",
+    "MEANING": "stubborness",
+    "FOREIGNSENTENCE": "Okoye na-emekari isi ike.",
+    "ENGLISHSENTENCE": "Okoye is oftentimes stubborn."
+  },
+  {
+    "ID": 15,
+    "DIALECT": "southern",
+    "POS": "n",
+    "FOREIGNWORD": "obi uto",
+    "MEANING": "delight",
+    "FOREIGNSENTENCE": "Mgbe obula m huru gi, o na-eme m obi uto.",
+    "ENGLISHSENTENCE": "Seeing you delights and pleases me."
+  },
+  {
+    "ID": 16,
+    "DIALECT": "general",
+    "POS": "adv",
+    "FOREIGNWORD": "ozugbo",
+    "MEANING": "immediately",
+    "FOREIGNSENTENCE": "Jee lakpuo, ozugbo ozugbo!",
+    "ENGLISHSENTENCE": "Go to bed immediately!"
+  },
+  {
+    "ID": 17,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "ujo",
+    "MEANING": "fear",
+    "FOREIGNSENTENCE": "Ujo ji ya.",
+    "ENGLISHSENTENCE": "He is afraid."
+  },
+  {
+    "ID": 18,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "eze",
+    "MEANING": "chief authority figure",
+    "FOREIGNSENTENCE": "Ngwanma bu eze umu nwaanyi.",
+    "ENGLISHSENTENCE": "Ngwanma is the chief authority figure of the woman populace."
+  },
+  {
+    "ID": 19,
+    "DIALECT": "southern",
+    "POS": "adv",
+    "FOREIGNWORD": "ngwa ngwa",
+    "MEANING": "quickly",
+    "FOREIGNSENTENCE": "Mee ngwa ngwa ka anyi puo!",
+    "ENGLISHSENTENCE": "Hurry up so we can leave!"
+  },
+  {
+    "ID": 20,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "uko",
+    "MEANING": "scarcity",
+    "FOREIGNSENTENCE": "Ego di m uko.",
+    "ENGLISHSENTENCE": "I am running low on cash."
+  },
+  {
+    "ID": 21,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "echiche",
+    "MEANING": "thoughts",
+    "FOREIGNSENTENCE": "Echiche ya erughi ebe ahu.",
+    "ENGLISHSENTENCE": "He did not consider that aspect in his thoughts."
+  },
+  {
+    "ID": 22,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "usekwu",
+    "MEANING": "kitchen",
+    "FOREIGNSENTENCE": "Onye na alukpo na usekwu?",
+    "ENGLISHSENTENCE": "Who is rambling about in the kitchen?"
+  },
+  {
+    "ID": 23,
+    "DIALECT": "northern",
+    "POS": "n",
+    "FOREIGNWORD": "amu",
+    "MEANING": "laughter",
+    "FOREIGNSENTENCE": "Ka ana chidalu Ekenma, nekwa Nkoli na amu.",
+    "ENGLISHSENTENCE": "As soon as Ekenma slipped and fell, Nkoli was howling with laughter."
+  },
+  {
+    "ID": 24,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "oge",
+    "MEANING": "season",
+    "FOREIGNSENTENCE": "Oge eruola mgbe eji eri Ji Ohuru.",
+    "ENGLISHSENTENCE": "The New Yam Festival season has arrived."
+  },
+  {
+    "ID": 25,
+    "DIALECT": "southern",
+    "POS": "n",
+    "FOREIGNWORD": "oru ubi",
+    "MEANING": "agriculture",
+    "FOREIGNSENTENCE": "Aghara oru ubi, aguu egbuola anyi.",
+    "ENGLISHSENTENCE": "If we dare abandon agriculture, we shall experience a severe famine."
+  },
+  {
+    "ID": 26,
+    "DIALECT": "southern",
+    "POS": "n",
+    "FOREIGNWORD": "ezinulo",
+    "MEANING": "household",
+    "FOREIGNSENTENCE": "Kelere m ndi ezinulo gi.",
+    "ENGLISHSENTENCE": "Extend my greetings to your household."
+  },
+  {
+    "ID": 27,
+    "DIALECT": "southern",
+    "POS": "n",
+    "FOREIGNWORD": "ubochi",
+    "MEANING": "day",
+    "FOREIGNSENTENCE": "Ubochi metuzie anyi apuo.",
+    "ENGLISHSENTENCE": "Later on in the day, we will step out."
+  },
+  {
+    "ID": 28,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "onwa",
+    "MEANING": "month",
+    "FOREIGNSENTENCE": "Onwa gwu, anyi ga-eri ugwo oru anyi ruru.",
+    "ENGLISHSENTENCE": "At the end of the month, we shall be compensated for our labor."
+  },
+  {
+    "ID": 29,
+    "DIALECT": "southern",
+    "POS": "n",
+    "FOREIGNWORD": "ihunanya",
+    "MEANING": "a deep and sincere type of love",
+    "FOREIGNSENTENCE": "O dighi ihe yiri ihunanya nne nwere na ebe nwa ya no.",
+    "ENGLISHSENTENCE": "A mother's love for her child has no comparison."
+  },
+  {
+    "ID": 30,
+    "DIALECT": "general",
+    "POS": "adj",
+    "FOREIGNWORD": "ezigbo",
+    "MEANING": "genuine",
+    "FOREIGNSENTENCE": "Ngwa ahia Ukonu bu ezigbo ya.",
+    "ENGLISHSENTENCE": "Ukonu's goods are of genuine quality."
+  },
+  {
+    "ID": 31,
+    "DIALECT": "general",
+    "POS": "adj",
+    "FOREIGNWORD": "nari nari",
+    "MEANING": "lukewarm",
+    "FOREIGNSENTENCE": "Nmiri ya di nari nari.",
+    "ENGLISHSENTENCE": "This water is lukewarm."
+  },
+  {
+    "ID": 32,
+    "DIALECT": "southern",
+    "POS": "n",
+    "FOREIGNWORD": "omenala",
+    "MEANING": "tradition",
+    "FOREIGNSENTENCE": "Ala wu otu, ma omenala di iche iche.",
+    "ENGLISHSENTENCE": "We share the same earth, though we are abound in diverse traditions."
+  },
+  {
+    "ID": 33,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "ndidi",
+    "MEANING": "endurance",
+    "FOREIGNSENTENCE": "Onye o mere ya dibe; ndidi ka nma.",
+    "ENGLISHSENTENCE": "If you were hurt, please endure; endurane is best."
+  },
+  {
+    "ID": 34,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "onwe",
+    "MEANING": "oneself",
+    "FOREIGNSENTENCE": "Cheere onwe gi echiche.",
+    "ENGLISHSENTENCE": "Consider your own well-being."
+  },
+  {
+    "ID": 35,
+    "DIALECT": "Aro",
+    "POS": "n",
+    "FOREIGNWORD": "akalaka",
+    "MEANING": "height",
+    "FOREIGNSENTENCE": "Akalaka ya di egwu!",
+    "ENGLISHSENTENCE": "Its height was impressive!"
+  },
+  {
+    "ID": 36,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "egwu",
+    "MEANING": "music",
+    "FOREIGNSENTENCE": "Egwu Ekpiri na-amasi m.",
+    "ENGLISHSENTENCE": "I enjoy the Ekpiri music genre."
+  },
+  {
+    "ID": 37,
+    "DIALECT": "southern",
+    "POS": "n",
+    "FOREIGNWORD": "oha",
+    "MEANING": "the general public",
+    "FOREIGNSENTENCE": "Oha na-azu nwa.",
+    "ENGLISHSENTENCE": "It takes a community to raise a child."
+  },
+  {
+    "ID": 38,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "okwa",
+    "MEANING": "rank",
+    "FOREIGNSENTENCE": "Okwa ya ariala.",
+    "ENGLISHSENTENCE": "She has been promoted in rank."
+  },
+  {
+    "ID": 39,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "ogbenye",
+    "MEANING": "poverty",
+    "FOREIGNSENTENCE": "Agumakwukwo so achula ogbenye.",
+    "ENGLISHSENTENCE": "Education helps erradicate poverty."
+  },
+  {
+    "ID": 40,
+    "DIALECT": "southern",
+    "POS": "n",
+    "FOREIGNWORD": "akaraka",
+    "MEANING": "a person's destiny",
+    "FOREIGNSENTENCE": "Akaraka enweghi nhicha.",
+    "ENGLISHSENTENCE": "A person's destiny is indelible."
+  },
+  {
+    "ID": 41,
+    "DIALECT": "southern",
+    "POS": "n",
+    "FOREIGNWORD": "odinihu",
+    "MEANING": "the time ahead",
+    "FOREIGNSENTENCE": "Odinihu ebuka.",
+    "ENGLISHSENTENCE": "The future is vast and filled with unimaginable possibilities."
+  },
+  {
+    "ID": 42,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "okachamara",
+    "MEANING": "a know-it-all",
+    "FOREIGNSENTENCE": "O ganughi ekwe ebe o bu okachamara!",
+    "ENGLISHSENTENCE": "Of course he won't agree since he's a know-it-all!"
+  },
+  {
+    "ID": 43,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "omumu",
+    "MEANING": "fertility",
+    "FOREIGNSENTENCE": "Omumu si na aka Chukwu.",
+    "ENGLISHSENTENCE": "Fertility is a gift from God."
+  },
+  {
+    "ID": 44,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "uma",
+    "MEANING": "numerical remainder",
+    "FOREIGNSENTENCE": "Ekee ise uzo abuo,  o ga-ama uma mkpuru otu.",
+    "ENGLISHSENTENCE": "Five divided by two yields a remainder of one."
+  },
+  {
+    "ID": 45,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "udi",
+    "MEANING": "sort",
+    "FOREIGNSENTENCE": "Achoro m udi nke a.",
+    "ENGLISHSENTENCE": "I want this particular sort."
+  },
+  {
+    "ID": 46,
+    "DIALECT": "southern",
+    "POS": "n",
+    "FOREIGNWORD": "nganga",
+    "MEANING": "pride",
+    "FOREIGNSENTENCE": "Ha ji nwa ha akpa ngaga.",
+    "ENGLISHSENTENCE": "They take great pride in their child."
+  },
+  {
+    "ID": 47,
+    "DIALECT": "general",
+    "POS": "adj",
+    "FOREIGNWORD": "agadi",
+    "MEANING": "agadi",
+    "FOREIGNSENTENCE": "Agadi nwanyi adighi aka nka na egwu o maara agba.",
+    "ENGLISHSENTENCE": "An elderly woman's age is not reflected when she dances to a familiar tune."
+  },
+  {
+    "ID": 48,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "aka nri",
+    "MEANING": "right hand",
+    "FOREIGNSENTENCE": "Ndi Igbo ji aka nri ekwe ekele.",
+    "ENGLISHSENTENCE": "The Igbo people greet with their right hand."
+  },
+  {
+    "ID": 49,
+    "DIALECT": "general",
+    "POS": "adj",
+    "FOREIGNWORD": "mbu",
+    "MEANING": "first",
+    "FOREIGNSENTENCE": "Chidi bu onye mbu.",
+    "ENGLISHSENTENCE": "Chidi is the first person."
+  },
+  {
+    "ID": 50,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "ugwu",
+    "MEANING": "respect",
+    "FOREIGNSENTENCE": "Ugwu bu nkwanyere nkwanyere.",
+    "ENGLISHSENTENCE": "Respect is reciprocal."
+  },
+  {
+    "ID": 51,
+    "DIALECT": "general",
+    "POS": "adv",
+    "FOREIGNWORD": "nso",
+    "MEANING": "near",
+    "FOREIGNSENTENCE": "Ulo ha di nso.",
+    "ENGLISHSENTENCE": "Their house is nearby."
+  },
+  {
+    "ID": 52,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "ako na uche",
+    "MEANING": "common sense",
+    "FOREIGNSENTENCE": "Ako na uche na amamakwukwo di iche.",
+    "ENGLISHSENTENCE": "It is one thing to be well-read and educated, it is another to have common sense."
+  },
+  {
+    "ID": 53,
+    "DIALECT": "southern",
+    "POS": "n",
+    "FOREIGNWORD": "uru",
+    "MEANING": "profit",
+    "FOREIGNSENTENCE": "Ahia ndi aka nkpi n'aabu, uru anaghi adi ya.",
+    "ENGLISHSENTENCE": "When two penny-pinchers conduct business, no one profits."
+  },
+  {
+    "ID": 54,
+    "DIALECT": "general",
+    "POS": "adj",
+    "FOREIGNWORD": "iche iche",
+    "MEANING": "assorted",
+    "FOREIGNSENTENCE": "Asusu di na uwa di iche iche.",
+    "ENGLISHSENTENCE": "There are so many languages on earth."
+  },
+  {
+    "ID": 55,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "ozuzu",
+    "MEANING": "upbringing",
+    "FOREIGNSENTENCE": "Agwa oma si na ozuzu.",
+    "ENGLISHSENTENCE": "Exemplerary character is a result of proper upbringing."
+  },
+  {
+    "ID": 56,
+    "DIALECT": "southern",
+    "POS": "n",
+    "FOREIGNWORD": "okporo uzo",
+    "MEANING": "street",
+    "FOREIGNSENTENCE": "Leruo anya ma I na-agafe okporo uzo.",
+    "ENGLISHSENTENCE": "Be vigilant when you cross the street."
+  },
+  {
+    "ID": 57,
+    "DIALECT": "northern",
+    "POS": "n",
+    "FOREIGNWORD": "ogo",
+    "MEANING": "philanthropy",
+    "FOREIGNSENTENCE": "Ngozi diri ndi na-eme ogo.",
+    "ENGLISHSENTENCE": "Blessed are those who practice philanthropy."
+  },
+  {
+    "ID": 58,
+    "DIALECT": "general",
+    "POS": "v",
+    "FOREIGNWORD": "igba egbe onu",
+    "MEANING": "to make empty threats",
+    "FOREIGNSENTENCE": "Gba ya nkiti, o na-agba egbe onu.",
+    "ENGLISHSENTENCE": "Pay him no mind, he is simply making empty threats."
+  },
+  {
+    "ID": 59,
+    "DIALECT": "general",
+    "POS": "adj",
+    "FOREIGNWORD": "anya anya",
+    "MEANING": "far away",
+    "FOREIGNSENTENCE": "Ka anyi noro anya anya na-ele ha.",
+    "ENGLISHSENTENCE": "Let us observe them from a safe distance."
+  },
+  {
+    "ID": 60,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "ndumodu",
+    "MEANING": "counsel",
+    "FOREIGNSENTENCE": "Ndumodu ojoo na eduhie nmadu uzo.",
+    "ENGLISHSENTENCE": "Poor counsel leads one astray."
+  },
+  {
+    "ID": 61,
+    "DIALECT": "southern",
+    "POS": "n",
+    "FOREIGNWORD": "oru",
+    "MEANING": "a critical flaw or defect",
+    "FOREIGNSENTENCE": "Ukwu oche ahu nwere oru.",
+    "ENGLISHSENTENCE": "That chair has a critical defect on its legs."
+  },
+  {
+    "ID": 62,
+    "DIALECT": "general",
+    "POS": "adv",
+    "FOREIGNWORD": "ebighi ebi",
+    "MEANING": "incessant",
+    "FOREIGNSENTENCE": "Nsogbu uwa ebighi ebi.",
+    "ENGLISHSENTENCE": "Life's struggles are incessant."
+  },
+  {
+    "ID": 63,
+    "DIALECT": "northern",
+    "POS": "n",
+    "FOREIGNWORD": "nkata",
+    "MEANING": "conversation",
+    "FOREIGNSENTENCE": "Anyi kpara nkata na okpuru osisi.",
+    "ENGLISHSENTENCE": "We had a conversation under the tree."
+  },
+  {
+    "ID": 64,
+    "DIALECT": "southern",
+    "POS": "n",
+    "FOREIGNWORD": "agburu",
+    "MEANING": "lineage",
+    "FOREIGNSENTENCE": "O si na agburu eje.",
+    "ENGLISHSENTENCE": "It is passed down from generation to generation."
+  },
+  {
+    "ID": 65,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "onuma",
+    "MEANING": "deep-rooted animosity",
+    "FOREIGNSENTENCE": "Onuma ekweghi Nwanyinma na nwunye di ya ibi na udo.",
+    "ENGLISHSENTENCE": "Nwanyinma and her co-wife were unable to live peacefully, due to the deep-rooted animosity between them."
+  },
+  {
+    "ID": 66,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "ofo",
+    "MEANING": "concept of righteousness",
+    "FOREIGNSENTENCE": "Ome ihe jide ofo.",
+    "ENGLISHSENTENCE": "Act with justification."
+  },
+  {
+    "ID": 67,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "nka na uzu",
+    "MEANING": "science and technology",
+    "FOREIGNSENTENCE": "O na-amu nka na uzu na mahadum.",
+    "ENGLISHSENTENCE": "She is studying science and technology in the university."
+  },
+  {
+    "ID": 68,
+    "DIALECT": "southern",
+    "POS": "v",
+    "FOREIGNWORD": "isi agugo",
+    "MEANING": "to contest or argue",
+    "FOREIGNSENTENCE": "Ana-esiri ya agugo?",
+    "ENGLISHSENTENCE": "Is it up for debate?"
+  },
+  {
+    "ID": 69,
+    "DIALECT": "southern",
+    "POS": "v",
+    "FOREIGNWORD": "iju oku",
+    "MEANING": "to cool from hot to slightly warm",
+    "FOREIGNSENTENCE": "Nri gi ajuola oku.",
+    "ENGLISHSENTENCE": "Your meal has cooled down now."
+  },
+  {
+    "ID": 70,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "izu",
+    "MEANING": "a private or intimate discussion",
+    "FOREIGNSENTENCE": "Izu ka nma na nneji.",
+    "ENGLISHSENTENCE": "Intimate discusion is best amongst kin."
+  },
+  {
+    "ID": 71,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "esemokwu",
+    "MEANING": "discord",
+    "FOREIGNSENTENCE": "Na onye eyela onu na esemokwu di na nwunye.",
+    "ENGLISHSENTENCE": "One should not meddle in the private discord between a husband and wife."
+  },
+  {
+    "ID": 72,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "owu",
+    "MEANING": "deep silence",
+    "FOREIGNSENTENCE": "Ebe niile kuru owu.",
+    "ENGLISHSENTENCE": "It is extremely silent."
+  },
+  {
+    "ID": 73,
+    "DIALECT": "general",
+    "POS": "adj",
+    "FOREIGNWORD": "obia",
+    "MEANING": "foreign",
+    "FOREIGNSENTENCE": "Ha nabatara ndi obia.",
+    "ENGLISHSENTENCE": "They hosted foreign guests."
+  },
+  {
+    "ID": 74,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "nkato",
+    "MEANING": "slander",
+    "FOREIGNSENTENCE": "Nkato ka nsi.",
+    "ENGLISHSENTENCE": "Slandering a person's name is far worse than poison."
+  },
+  {
+    "ID": 75,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "mkpebi",
+    "MEANING": "final resolve",
+    "FOREIGNSENTENCE": "Emechaa anyi a mara ihe bu mkpebi ndi amaala.",
+    "ENGLISHSENTENCE": "Soon, we will know what the elders have resolved to do."
+  },
+  {
+    "ID": 76,
+    "DIALECT": "general",
+    "POS": "v",
+    "FOREIGNWORD": "ima anya",
+    "MEANING": "to be well-versed in a topic",
+    "FOREIGNSENTENCE": "Nkechi ma anya komputa.",
+    "ENGLISHSENTENCE": "Nneka is familiar with all aspects of computers."
+  },
+  {
+    "ID": 77,
+    "DIALECT": "southern",
+    "POS": "n",
+    "FOREIGNWORD": "ariri",
+    "MEANING": "anguish",
+    "FOREIGNSENTENCE": "Ariri egbula m!",
+    "ENGLISHSENTENCE": "May anguish not consume me!"
+  },
+  {
+    "ID": 78,
+    "DIALECT": "southern",
+    "POS": "n",
+    "FOREIGNWORD": "iko",
+    "MEANING": "extramarital lover",
+    "FOREIGNSENTENCE": "Kwa abali ka Ugorie ji alakwuru iko ya.",
+    "ENGLISHSENTENCE": "Ugorie frequents her lover on a nightly basis."
+  },
+  {
+    "ID": 79,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "nmegwa",
+    "MEANING": "vengeance",
+    "FOREIGNSENTENCE": "Chi nwe nmegwa.",
+    "ENGLISHSENTENCE": "Vengeance is left up to God."
+  },
+  {
+    "ID": 80,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "nka",
+    "MEANING": "skill",
+    "FOREIGNSENTENCE": "Orieji ji nka tee ofe a.",
+    "ENGLISHSENTENCE": "Orieji skillfully prepared this soup."
+  },
+  {
+    "ID": 81,
+    "DIALECT": "southern",
+    "POS": "n",
+    "FOREIGNWORD": "ekworo",
+    "MEANING": "jealousy",
+    "FOREIGNSENTENCE": "Aku zuo umunna, anya ukwu na ekworo alaa.",
+    "ENGLISHSENTENCE": "When wealth is shared fairly amongst kin, jealousy and greed fade away."
+  },
+  {
+    "ID": 82,
+    "DIALECT": "southern",
+    "POS": "adj",
+    "FOREIGNWORD": "mberede",
+    "MEANING": "sudden and unforseen",
+    "FOREIGNSENTENCE": "Mberede nyiri dike.",
+    "ENGLISHSENTENCE": "Unexpected circumstances are beyond the capacity of heroes."
+  },
+  {
+    "ID": 83,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "ide",
+    "MEANING": "pillar",
+    "FOREIGNSENTENCE": "O bu ide ji ulo.",
+    "ENGLISHSENTENCE": "She is the pillar that holds the house errect."
+  },
+  {
+    "ID": 84,
+    "DIALECT": "general",
+    "POS": "v",
+    "FOREIGNWORD": "ituko isi onu",
+    "MEANING": "to collectively brainstorm",
+    "FOREIGNSENTENCE": "Ka anyi tukoo isi onu.",
+    "ENGLISHSENTENCE": "Let us put our heads together and brainstorm."
+  },
+  {
+    "ID": 85,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "obodo nmepe",
+    "MEANING": "development and urbanization",
+    "FOREIGNSENTENCE": "Anyi choro obodo nmepe.",
+    "ENGLISHSENTENCE": "We seek the development and urbanization of our community."
+  },
+  {
+    "ID": 86,
+    "DIALECT": "general",
+    "POS": "adj",
+    "FOREIGNWORD": "kwem",
+    "MEANING": "straight and upright",
+    "FOREIGNSENTENCE": "Dozie ya kwem.",
+    "ENGLISHSENTENCE": "Reposition it so it can be straight and upright."
+  },
+  {
+    "ID": 87,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "nkamanya",
+    "MEANING": "insolance",
+    "FOREIGNSENTENCE": "Nkamanya umu uwa ohuru a, ahutubeghi m!",
+    "ENGLISHSENTENCE": "The insolence of this new generation is profound and unfamiliar to me!"
+  },
+  {
+    "ID": 88,
+    "DIALECT": "southern",
+    "POS": "n",
+    "FOREIGNWORD": "ebiri",
+    "MEANING": "agemate or age grade",
+    "FOREIGNSENTENCE": "Mu na ya bu ebiri.",
+    "ENGLISHSENTENCE": "She and I are agemates."
+  },
+  {
+    "ID": 89,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "agwa",
+    "MEANING": "personality",
+    "FOREIGNSENTENCE": "Agwa ya amaa.",
+    "ENGLISHSENTENCE": "Her personality is amazing."
+  },
+  {
+    "ID": 90,
+    "DIALECT": "general",
+    "POS": "n",
+    "FOREIGNWORD": "njakiri",
+    "MEANING": "banter",
+    "FOREIGNSENTENCE": "Unu hapu njakiri ka any kpaa ezi ihe!",
+    "ENGLISHSENTENCE": "Quit the banter, guys, and let's be serious!"
+  }
+]
+}
+}

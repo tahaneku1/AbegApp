@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "765862793430",
+    "firebase_url": "https://abegdbproject.firebaseio.com",
+    "project_id": "abegdbproject",
+    "storage_bucket": "abegdbproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765862793430:android:d2bd3643fcb9e3a1",
+        "android_client_info": {
+          "package_name": "com.example.timothy.abegapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765862793430-fm9opjcvilu5mvn2v8dbu1kc7pocaeip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ZZuB-JRpg92uPydFprdA0WsLXdGBV_A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765862793430:android:87fcb66cc6ca320a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765862793430-fm9opjcvilu5mvn2v8dbu1kc7pocaeip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ZZuB-JRpg92uPydFprdA0WsLXdGBV_A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
